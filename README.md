@@ -2,6 +2,7 @@
 ### 我是謝志豪 Dylan
 
 ### 已婚且有一個小孩，現在兩歲快三歲～
+<img src="https://i.imgur.com/BVG03GW.jpg" width="300" height="400"/>
 ![](https://i.imgur.com/BVG03GW.jpg =300x400)
 ![](https://i.imgur.com/z6gSTpA.jpg =300x400)
 ### **離開傳產後，去緯創資通**
