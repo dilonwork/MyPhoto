@@ -6,21 +6,21 @@
 <img src="https://i.imgur.com/BVG03GW.jpg" width="300" height="400"/>
 <img src="https://i.imgur.com/z6gSTpA.jpg" width="300" height="400"/>
 
-### **離開傳產後，去緯創資通**
+### **緯創資通 2020-2021**
 在這裡推動數位轉型，透過流程再造並打破SW/EE間資訊隔閡，
 使兩團隊的資訊可以融合，提前找出問題，減少生產錯誤
 
 <img src="https://i.imgur.com/bC7nPwG.jpg" width="330" height="390"/>
 <img src="https://i.imgur.com/jeRgWgx.jpg" width="330" height="390"/>
 
-### **離開海邊後，待傳產兩年**
+### **PATTA 2018-2020**
 進去後與夥伴推動導入軟體版本控制-GIT
 三個月內改善一個每三天就會當掉的請款系統
 
 <img src="https://i.imgur.com/WQP9DmW.jpg" width="330" height="270"/>
 <img src="https://i.imgur.com/xPOSbk4.jpg" width="330" height="270"/>
 
-### **曾經下海七年**
+### **鴻海精密 2009-2017**
 跑北京，最後跑去上海推電動車分時租賃系統
 
 ### 電動車分時租賃系統
